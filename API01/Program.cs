@@ -1,4 +1,6 @@
 
+using API01.Middlewares;
+
 namespace API01
 {
     public class Program
@@ -19,6 +21,7 @@ namespace API01
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
+                app.UseRequestCounter();
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }

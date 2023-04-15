@@ -466,11 +466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ITI_intake 43\\34.Web API\\Day_1\\API01\\API01.csproj",
+      "projectUniqueName": "D:\\ITI_intake 43\\34.Web API\\Day 1\\Lab\\API01\\API01.csproj",
       "projectName": "API01",
-      "projectPath": "D:\\ITI_intake 43\\34.Web API\\Day_1\\API01\\API01.csproj",
+      "projectPath": "D:\\ITI_intake 43\\34.Web API\\Day 1\\Lab\\API01\\API01.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\ITI_intake 43\\34.Web API\\Day_1\\API01\\obj\\",
+      "outputPath": "D:\\ITI_intake 43\\34.Web API\\Day 1\\Lab\\API01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
